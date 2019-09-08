@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+
+    <string name="error_message">
+        An error has occurred. Please try again by selecting the menu option.
+    </string>
+
+    <string name="trailer_error_message">
+        An error has occurred in fetching the trailer details.
+    </string>
+
+    <string name="review_error_message">
+        An error has occurred in fetching the review details.
+    </string>
+
+    <string name="sort_popular">
+        Most Popular
+    </string>
+
+    <string name="sort_ratings">
+        Highest Rated
+    </string>
+
+    <string name="sort_favourite">
+        Favourite Movies
+    </string>
+    <string name="movie_title">Title:</string>
+    <string name="movie_rating">Average_Rating:</string>
+    <string name="movie_release_data">Release date:</string>
+    <string name="movie_plot">Movie plot:</string>
+    <string name="add_to_fav">Favourite</string>
+    <string name="fav_off">Add</string>
+    <string name="fav_on">Remove</string>
+    <string name="empty_db">No movies are added to the favourite list yet!</string>
+</resources>
